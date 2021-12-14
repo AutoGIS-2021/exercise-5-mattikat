@@ -17,7 +17,7 @@ In order to access the files via the links, you need to set the repository as pu
 Edit the text below and add links to the maps that you have created:
 
  - [Jumbo_travel_time_difference](https://autogis-2021.github.io/exercise-5-mattikat/Jumbo_travel_time_difference.png)
- - [Map_of_public_transport_stops](https://autogis-2021.github.io/exercise-5-mattikat/map_of_public_transport_stops.html.html)
+ - [Map_of_public_transport_stops](https://autogis-2021.github.io/exercise-5-mattikat/map_of_public_transport_stops.html)
  
  You can check syntax for formatting the links in here: 
  - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
