@@ -72,7 +72,20 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
   
-  
+## Exercise 5 grade and feedback: 19.0 / 20.0 points
+### Grader
+- Justus Poutanen
+### Problem scores
+- Problem 1: 7.0 / 8.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: 2.0 / 2.0
+### Comments 
+- In prob 1, when calculating the difference, this would have also worked:
+data_geo['DIFF'] = data_geo['car_r_t'] - data_geo['car_m_t']
+- Interesting choice of colors!
+- There are few inline comments
+- Please include the input data files next time.
+- Nice tooltips in prob 2!
   
   
   
